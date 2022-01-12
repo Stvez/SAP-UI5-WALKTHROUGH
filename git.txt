@@ -1,0 +1,4 @@
+git init
+git config --global user.name "Eric"
+git config --global user.email estevezrodriguez.eric@gmail.com 
+git remote add origin https://github.com/Stvez/SAP-UI5-WALKTHROUGH.git
